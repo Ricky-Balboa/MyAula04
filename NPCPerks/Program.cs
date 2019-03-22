@@ -47,12 +47,7 @@ namespace NPCPerks
                     Caracteristicas[i] |= Perks.Luck;
                 }
                
-               if (d == "sim"&& b == "sim")
-                {
-                    
-                        Console.WriteLine("You Shall win all Fights");
-                    
-                }
+
 
             }
             for (int i = 0; i < n; i++)
